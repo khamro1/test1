@@ -4,4 +4,10 @@ HOKAGTPH
 내용추가하기
 
 오늘 test1 
+<<<<<<< HEAD
 test2 번 필요앖음
+=======
+
+
+brach 생성해보기...
+>>>>>>> copy1
